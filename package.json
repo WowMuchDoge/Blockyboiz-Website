@@ -1,0 +1,25 @@
+{
+  "name": "blockyboiz-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WowMuchDoge/Blockyboiz-Website.git"
+  },
+  "author": "WowMuchDoge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WowMuchDoge/Blockyboiz-Website/issues"
+  },
+  "homepage": "https://github.com/WowMuchDoge/Blockyboiz-Website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
